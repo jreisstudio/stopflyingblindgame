@@ -5,7 +5,8 @@
 
 ## List of Tips.
 
-1. - **Bring Business on Board:**  Business Agility is not a team sport but a company sport. **[FL3]**
-2. - **Limit work items where you want to achieve the benefits!:**  <...>  **[All]**
+1. **Bring business and top management on Board:**  Business Agility is not a team sport but a company sport. **[FL3]**
+2. **Limit work items where you want to achieve the benefits!:**  <...>  **[All]**
+3. **Focus on what you want to achieve and not on methods or frameworks!** <...> **[All]**
 
 ## List of Traps.
