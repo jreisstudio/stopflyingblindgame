@@ -5,7 +5,7 @@
 
 ## List of Tips.
 
-1 - **Bring Business on Board:**  Business Agility is not a team sport but a company sport. **[FL3]**
-
+1. - **Bring Business on Board:**  Business Agility is not a team sport but a company sport. **[FL3]**
+2. - **Limit work items where you want to achieve the benefits!:**  <...>  **[All]**
 
 ## List of Traps.
