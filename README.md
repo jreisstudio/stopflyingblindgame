@@ -7,13 +7,13 @@ A card game to board Understand and visualize the Flight Levels Thinking Model i
 * Each card deck is designed to support a discussion between 3-4 people around a fake or real cenario to apply the Flight Levels thinking model. If you have a larger group, Split them into smaller ones.
 
 ### Knowledge Setup : 
-* Ask  the group(s) to read the first card with the explanation of what are the items of the [Flight Mode] ( Understand the context, Build Fl. Arch, Define Flight Items and Flight Routes, and define Agile Interactions)
-* Give them 5 minutes  to discuss and level the knowledge about it.
-* Explain in 2 minutes what are the items of the Flight Mode ( just to ensure everybody has the same concept in mind)
+1. Ask  the group(s) to read the first card with the explanation about [Flight Mode] Explanation ( Understand the context, Build Fl. Arch, Define Flight Items and Flight Routes, and define Agile Interactions)
+2. Give them 5 minutes  to discuss and build knowledge around these concepts.
+3. Explain in 2 minutes what are the items of the Flight Mode ( just to ensure everybody got the concept properly)
 
-* Ask the group(s) to read the second card about Flight Level Activites (Visualize, Situation, Create Focus, Stabilish Interactions, Measure the progress) and Levels (Execution/Operation, Coordination, Strategic).
-* Give them 5 minutes  to discuss and level the knowledge about it.
-* Explain in 2 minutes what are the items of the Flight Mode ( just to ensure everybody has the same concept in mind)
+4. Ask the group(s) to read the second card about Flight Level **Activites** (Visualize, Situation, Create Focus, Stabilish Interactions, Measure the progress) and **Levels** (Execution/Operation, Coordination, Strategic).
+5. Give them 5 minutes  to discuss and build knowledge around these concepts.
+6. Explain in 2 minutes what are the items of the Flight Mode ( just to ensure everybody got the concept properly)
 
 
 ### Playing Seriously!  : 
