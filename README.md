@@ -1,13 +1,10 @@
 # Stop Flying blind game.
 
-## Game Elements.
-
-A card deck with 26 cards (12 tips and 12 traps, 2 explanation cards)
-A Flight Level board. 
+A card game to board Understand and visualize the Flight Levels Thinking Model in Action.
 
 ## Game Rules
 
-* Each card deck is to support a discussion between 3-4 people. If you have a larger group, Split them in smaller ones.
+* Each card deck is designed to support a discussion between 3-4 people around a fake or real cenario to apply the Flight Levels thinking model. If you have a larger group, Split them into smaller ones.
 
 ### Knowledge Setup : 
 * Ask  the group(s) to read the first card with the explanation of what are the items of the [Flight Mode] ( Understand the context, Build Fl. Arch, Define Flight Items and Flight Routes, and define Agile Interactions)
