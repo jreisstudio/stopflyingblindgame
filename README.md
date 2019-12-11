@@ -22,12 +22,13 @@ A card game to board Understand and visualize the Flight Levels Thinking Model i
   * if you are playing just for a teaching purpose invest time in preparing a good context as in an RPG game!  if not,  do a good research job beforehand to support people in understanding the real-world scenario.
   
 * Ask  the group(s)  to draw in a flip chart or A3 sheet, the 3 Flight Levels and a first draft of the model they guess could fit the given context.
-* Distribute the cards and ask  the participants to read them and select 2 that they think have some relation to the model they drew. The card can be a tip or trap they must be aware of.
-* Each participant must read the card to the others and place it  in the Flight Levels Board in the exact level it is showing. (the level is indicated in the card on the right at the top) .
-* After the last participant show the card , the group have 5 minutes to discuss and refactoring the model based on the tips and traps  they have on the table.
-* Repeat it twice more to complete 3 rounds of refactoring.
-* If you have more than 1 group  ask them to share what they build  and give to the entire group a final round of refactoring based on what they saw in the others model.
-* Finalize the game explaining that:
-  * every model is wrong but necessary;
-  * The model must be alive, it’s not an waterfall model design , and the day-to-day usage will bring new ideas. Embrace the change and do a new refactoring when necessary.
 
+* Distribute the cards and ask  the participants to read them and select 2 that they think could helpa refactoring of the model they sketchy before. The card can be a tip or trap they must be aware of.
+
+* Each participant must read the cards to the others and explain what comes to his/her mind while reading and how they can change or adapt the sketchy model based on that. The group can accept :thumbs_up: or reject :thumbs_down: the idea (no discussion yet), but every played card must stay visible until the end of the game somewhere in the table.
+
+* After the last participant show the cards, the group have 5 minutes to discuss and refactoring the model based on the accepted cards.
+
+* Repeat it twice more to complete 3 rounds of refactoring.
+
+* If you have more than 1 group  ask them to share what they build in each group and give to the entire group a final round of refactoring based on what they saw in the others model.
