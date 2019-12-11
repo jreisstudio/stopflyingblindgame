@@ -3,15 +3,15 @@
 A card game to board Understand and visualize the Flight Levels Thinking Model in Action.
 
 ## Game Rules
-
-* Each card deck is designed to support a discussion between 3-4 people around a fake or real cenario to apply the Flight Levels thinking model. If you have a larger group, Split them into smaller ones.
+*  Feel free to use the Stop Flying Blind Cards the way you want. The main purpose of it, is to support people on understanding and design  Good Flight Level Architectures.
+* Each card deck is designed to support a discussion between 3-4 people around a fake or real cenario to apply the Flight Levels thinking model. If you have a larger group, Split them into smaller one and use more decks.
 
 ### Knowledge Setup : 
-1. Ask  the group(s) to read the first card with the explanation about [Flight Mode] Explanation ( Understand the context, Build Fl. Arch, Define Flight Items and Flight Routes, and define Agile Interactions)
+1. Ask  the group(s) to read the *A* card with the explanation about [Flight Mode] Explanation ( Understand the context, Build Fl. Arch, Define Flight Items and Flight Routes, and define Agile Interactions)
 2. Give them 5 minutes  to discuss and build knowledge around these concepts.
-3. Explain in 2 minutes what are the items of the Flight Mode ( just to ensure everybody got the concept properly)
+3. Explain in 2 minutes what are the items of the Flight Mode (just to ensure everybody got the concept properly)
 
-4. Ask the group(s) to read the second card about Flight Level **Activites** (Visualize, Situation, Create Focus, Stabilish Interactions, Measure the progress) and **Levels** (Execution/Operation, Coordination, Strategic).
+4. Ask the group(s) to read the *B* card about Flight Level **Activites** (Visualize, Situation, Create Focus, Stabilish Interactions, Measure the progress) and **Levels** (Execution/Operation, Coordination, Strategic).
 5. Give them 5 minutes  to discuss and build knowledge around these concepts.
 6. Explain in 2 minutes what are the items of the Flight Mode ( just to ensure everybody got the concept properly)
 
@@ -20,7 +20,8 @@ A card game to board Understand and visualize the Flight Levels Thinking Model i
 
 * Give a context to the group. It can be a real or fake context, depending on the purpose you are playing for.
   * if you are playing just for a teaching purpose invest time in preparing a good context as in an RPG game!  if not,  do a good research job beforehand to support people in understanding the real-world scenario.
-* Ask  the group(s) to based on what they discussed on the knowledge setup, to draw in the flight Level board a first model that could  the Flight Level model for the given context. Give them 10 minutes to do it.
+  
+* Ask  the group(s)  to draw in a flip chart or A3 sheet, the 3 Flight Levels and a first draft of the model they guess could fit the given context.
 * Distribute the cards and ask  the participants to read them and select 2 that they think have some relation to the model they drew. The card can be a tip or trap they must be aware of.
 * Each participant must read the card to the others and place it  in the Flight Levels Board in the exact level it is showing. (the level is indicated in the card on the right at the top) .
 * After the last participant show the card , the group have 5 minutes to discuss and refactoring the model based on the tips and traps  they have on the table.
