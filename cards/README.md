@@ -2,8 +2,7 @@
 
 ### THEORETICAL CARDS
 Cards that represent  the theory behind the Flight Levels. They must be read and discussed before anything else, so everybody has the same understanding about what Flight Levels mean.
-![#A]("https://drive.google.com/open?id=1fFFUfpppOquZnKJcTo4EAGshlkOEcrhE")
-
+<img src="https://drive.google.com/open?id=1fFFUfpppOquZnKJcTo4EAGshlkOEcrhE"/>
 
 ### ARCH. SAMPLE CARDS
 Learning by Example! With those cards we can see some Architecture samples and have ideas to sketch our own model. There isn't a right model, but we can learn a lot by visualizing a lot of "wrong ones" 
