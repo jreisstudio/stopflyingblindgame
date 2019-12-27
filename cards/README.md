@@ -8,3 +8,6 @@ Learning by Example! With those cards we can see some Architecture samples and h
 
 ### TIPS AND TRAPS
 Tips and traps is a collection of learnings we are acquiring during our  Flight Levels Journey.
+
+
+https://drive.google.com/open?id=1CKKglVujMOnYYO1JsonpGeHU--ob9Y_E
