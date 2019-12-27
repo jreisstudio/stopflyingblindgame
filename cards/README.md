@@ -2,7 +2,7 @@
 
 ### THEORETICAL CARDS
 Cards that represent  the theory behind the Flight Levels. They must be read and discussed before anything else, so everybody has the same understanding about what Flight Levels mean.
-![#A](https://drive.google.com/open?id=1fFFUfpppOquZnKJcTo4EAGshlkOEcrhE)
+![#A]("https://drive.google.com/open?id=1fFFUfpppOquZnKJcTo4EAGshlkOEcrhE")
 
 
 ### ARCH. SAMPLE CARDS
