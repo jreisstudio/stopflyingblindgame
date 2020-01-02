@@ -15,4 +15,4 @@ A card game to board Understand and visualize the Flight Levels Thinking Model i
 
 6. If you have more than 1 group in the room ask them to present the sketched model to the others that will take note about what's being shared and will debrief a little bit more upon their very own sketched model. That's round 3.
 
-7. Finalize the dynamic with this important awareness:   " "Essentially, all models are wrong, but some are useful." - George E.P. Box
+7. Finalize the dynamic with this important awareness:   " Essentially, all models are wrong, but some are useful." - George E.P. Box
