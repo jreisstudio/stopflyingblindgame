@@ -16,3 +16,17 @@ A card game to board Understand and visualize the Flight Levels Thinking Model i
 6. If you have more than 1 group in the room ask them to present the sketched model to the others that will take note about what's being shared and will debrief a little bit more upon their very own sketched model. That's round 3.
 
 7. Finalize the dynamic with this important awareness:   " Essentially, all models are wrong, but some are useful." - George E.P. Box
+
+
+## CARDS
+
+### THEORETICAL CARDS
+Cards that represent  the theory behind the Flight Levels. They must be read and discussed before anything else, so everybody has the same understanding about what Flight Levels mean.
+
+### ARCH. SAMPLE CARDS
+Learning by Example! With those cards we can see some Architecture samples and have ideas to sketch our model. There isn't a right model, but we can learn a lot by visualizing a lot of "wrong ones" 
+
+### TIPS AND TRAPS
+Tips and traps is a collection of learnings we are acquiring during our  Flight Levels Journey.
+
+![image](https://drive.google.com/uc?export=view&id=1lxAKWJ1Yxc4k6nke1tlCNNIsu3xlxTIF)
