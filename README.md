@@ -18,12 +18,12 @@ A card game to board Understand and visualize the Flight Levels Thinking Model i
 7. Finalize the dynamic with this important awareness:   " Essentially, all models are wrong, but some are useful." - George E.P. Box
 
 
-## CARDS
+## Cards
 
 ### THEORETICAL CARDS
 Cards that represent  the theory behind the Flight Levels. They must be read and discussed before anything else, so everybody has the same understanding about what Flight Levels mean.
 
-### ARCH. SAMPLE CARDS
+### ARCH SAMPLE CARDS
 Learning by Example! With those cards we can see some Architecture samples and have ideas to sketch our model. There isn't a right model, but we can learn a lot by visualizing a lot of "wrong ones" 
 
 ### TIPS AND TRAPS
