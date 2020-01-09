@@ -37,4 +37,4 @@ Learning by Example! With those cards we can see some Architecture samples and h
 ### TIPS AND TRAPS
 Tips and traps is a collection of learnings we are acquiring during our  Flight Levels Journey.
 
-![image](http://stopflyingblindcards.com/cards.jpg)
+![image]("http://stopflyingblindcards.com/cards.jpg")
